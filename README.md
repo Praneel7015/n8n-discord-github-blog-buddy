@@ -1,4 +1,4 @@
-<img width="1919" height="1067" alt="flow_b36b3d8336" src="https://github.com/user-attachments/assets/f1f8aada-dd91-496e-b13a-2e02d2ba2b71" /># Discord → GitHub Blog Buddy (n8n workflow)
+# Discord → GitHub Blog Buddy (n8n workflow)
 
 A small n8n workflow that lets you create blog posts by messaging a Discord bot. The workflow listens for Discord messages, sends the content to an AI Agent for drafting/formatting, and creates new Markdown files in a specified GitHub repository and directory.
 
