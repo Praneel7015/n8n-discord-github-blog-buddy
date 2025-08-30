@@ -111,6 +111,7 @@ If the GitHub create operation fails with "Resource not found":
 2. Retry automatically once.
 3. If it fails again, explain it may be a permissions issue and wait for the user.
 ---
+```
 
 ## How to customize
 
@@ -118,7 +119,7 @@ If the GitHub create operation fails with "Resource not found":
 - Edit the prompt to enforce your blog’s style guide.  
 - Add new workflow steps (Slack notifications, auto-publish, Notion sync).  
 - Change the directory path or file naming scheme to fit your repo.  
-```
+
 ---
 
 ## Contributions
