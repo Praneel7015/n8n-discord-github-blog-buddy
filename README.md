@@ -1,9 +1,9 @@
 # Discord → GitHub Blog Buddy (n8n workflow)
 
-A small n8n workflow that lets you create blog posts by messaging a Discord bot. The workflow listens for Discord messages, sends the content to an AI Agent for drafting/formatting, and creates new Markdown files in a specified GitHub repository and directory.
+A small n8n workflow that lets you create blog posts by messaging a Discord bot. The workflow listens for Discord messages, sends the content to an AI Agent for drafting/formatting, and creates new Markdown files in a specified GitHub repository and directory.[https://creators.n8n.io/workflows/7950](https://creators.n8n.io/workflows/7950)
 
 ![Workflow preview](https://n8niostorageaccount.blob.core.windows.net/n8nio-strapi-blobs-prod/assets/flow_b36b3d8336.png)  
-*(Add your exported workflow image here — recommended for clarity)*  
+
 
 > ⚠️ **Disclaimer:** This workflow uses the [n8n-nodes-discord-trigger](https://github.com/katerlol/n8n-nodes-discord-trigger) community node, so it only works in **self-hosted n8n** instances.
 
