@@ -151,7 +151,7 @@
     {
       "parameters": {
         "sessionIdType": "customKey",
-        "sessionKey": "={{ $json.content }}",
+        "sessionKey": "=\"memoryKey\": \"history\"",
         "contextWindowLength": 20
       },
       "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
